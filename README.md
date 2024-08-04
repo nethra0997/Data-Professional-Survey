@@ -25,3 +25,6 @@ Highlighted key findings and trends from the survey data.
 Data Source: Power BI - Final Project.xlsx
 Tool: Power BI Desktop
 Languages: DAX (for calculated columns and measures)
+
+# Live Report
+https://nethra0997.github.io/Data-Professional-Survey/
